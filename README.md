@@ -23,4 +23,4 @@ The **Currency Converter App** is an iOS application designed to provide users w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CurrencyConverterApp.git
+   git clone [https://github.com/yourusername/CurrencyConverterApp.git](https://github.com/AnugrahChaturvedi74/CurrencyConvertor.git)
